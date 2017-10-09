@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native'
 import App from './src/components/App'
 
-AppRegistry.registerComponent('MatchAndMentord', () => App)
+AppRegistry.registerComponent('MatchAndMentor', () => App)
